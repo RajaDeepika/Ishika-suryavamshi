@@ -1,0 +1,25 @@
+<style>
+body
+{
+  Background-color: blue;
+}
+h1
+{
+  color:#black;
+}
+h3
+{
+ color: blue;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: Black;
+  border-width: 3px;
+  width: 5%;
+}
+img{
+  border-radius: 100%;
+}
+</style>
